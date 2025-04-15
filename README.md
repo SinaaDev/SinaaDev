@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinaadev&label=Profile%20views&color=0e75b6&style=flat" alt="sinaadev" /> </p>
 
-- 🌱 I’m currently learning **flutter, swiftUI**
-
 - 👨‍💻 All of my projects are available at [alisinaportfolio.vercel.app](alisinaportfolio.vercel.app)
 
 - 💬 Ask me about **Flutter, Mobile development**
