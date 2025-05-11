@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Alisina Haidari</h1>
-<h3 align="center">A passionate Flutter developer</h3>
+<h3 align="center">A passionate Mobile App Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinaadev&label=Profile%20views&color=0e75b6&style=flat" alt="sinaadev" /> </p>
@@ -13,10 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alisinahaidari7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alisinahaidari7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alisina-haidari-85826027b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alisina-haidari-85826027b" height="30" width="40" /></a>
-<a href="https://fb.com/alisina haidari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alisina haidari" height="30" width="40" /></a>
-<a href="https://instagram.com/alisina.haidari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alisina.haidari_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
